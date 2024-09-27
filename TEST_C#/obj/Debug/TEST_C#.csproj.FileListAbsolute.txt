@@ -1,0 +1,11 @@
+D:\dev\TEST_C#\TEST_C#\bin\Debug\TEST_C#.exe.config
+D:\dev\TEST_C#\TEST_C#\bin\Debug\TEST_C#.exe
+D:\dev\TEST_C#\TEST_C#\bin\Debug\TEST_C#.pdb
+D:\dev\TEST_C#\TEST_C#\bin\Debug\System.Drawing.Common.dll
+D:\dev\TEST_C#\TEST_C#\bin\Debug\System.Drawing.Common.pdb
+D:\dev\TEST_C#\TEST_C#\bin\Debug\System.Drawing.Common.xml
+D:\dev\TEST_C#\TEST_C#\obj\Debug\TEST_C#.csproj.AssemblyReference.cache
+D:\dev\TEST_C#\TEST_C#\obj\Debug\TEST_C#.csproj.CoreCompileInputs.cache
+D:\dev\TEST_C#\TEST_C#\obj\Debug\TEST_C#.csproj.Up2Date
+D:\dev\TEST_C#\TEST_C#\obj\Debug\TEST_C#.exe
+D:\dev\TEST_C#\TEST_C#\obj\Debug\TEST_C#.pdb
