@@ -211,3 +211,4 @@ project.lock.json
 
 # UWP Projects
 AppPackages/
+packages/System.Drawing.Common.8.0.6
