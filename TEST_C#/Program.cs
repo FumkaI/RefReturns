@@ -61,9 +61,5 @@ class Program
     {
         // Викликаємо метод Run з класу TextProcessor
         TextProcessor.Run();
-
-        // Чекаємо на натискання клавіші перед закриттям консолі
-        Console.WriteLine("\nНатисніть будь-яку клавішу для завершення");
-        Console.ReadKey();
     }
 }
