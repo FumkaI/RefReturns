@@ -57,14 +57,13 @@ public class TextProcessor
 // Основний клас програми
 class Program
 {
-    // Точка входу в програму
     static void Main(string[] args)
     {
         // Викликаємо метод Run з класу TextProcessor
         TextProcessor.Run();
 
         // Чекаємо на натискання клавіші перед закриттям консолі
-        Console.WriteLine("\nНатисніть будь-яку клавішу для завершення...");
+        Console.WriteLine("\nНатисніть будь-яку клавішу для завершення");
         Console.ReadKey();
     }
 }
