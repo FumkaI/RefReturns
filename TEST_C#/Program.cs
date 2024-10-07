@@ -54,7 +54,6 @@ public class TextProcessor
     }
 }
 
-// Основний клас програми
 class Program
 {
     static void Main(string[] args)
